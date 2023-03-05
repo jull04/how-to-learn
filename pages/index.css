@@ -19,7 +19,7 @@
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks//two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/two-columns/two-columns.css);
 
 @import url(../blocks/techniques/techniques.css);
@@ -46,7 +46,7 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/heading/table__heading.css);
+@import url(../blocks/table/__heading/table__heading.css);
 
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
