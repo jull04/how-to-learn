@@ -5,5 +5,12 @@
   max-width: 730px;
   margin:0 0 0 64px;
   z-index: 2;
+}
 
+@media  screen and (max-width: 767px) {
+  .header__title {
+    font-size: 48px;
+    line-height: 50px;
+    max-width: 264px;
+  }
 }

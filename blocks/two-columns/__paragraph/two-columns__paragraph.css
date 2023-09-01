@@ -9,3 +9,9 @@
 .two-columns__paragraph:first-of-type {
   padding-top: 0;
 }
+
+@media  screen and (max-width: 767px) {
+  .two-columns__paragraph {
+    font-size: 11px;
+  }
+}
